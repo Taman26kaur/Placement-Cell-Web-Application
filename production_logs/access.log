@@ -1,0 +1,9 @@
+[0mGET / [36m304[0m 264.788 ms - -[0m
+[0mPOST /create-session [36m302[0m 3786.549 ms - 46[0m
+[0mGET / [32m200[0m 3538.203 ms - 58728[0m
+[0mPUT /interviews/students/edit/6613ac491f7b9575ccf16c2b [32m200[0m 2454.150 ms - 8532[0m
+[0mGET /jobs [36m304[0m 409.750 ms - -[0m
+[0mGET /profile/6613aba81f7b9575ccf16b68 [36m304[0m 549.358 ms - -[0m
+[0mGET / [32m200[0m 5750.267 ms - 58738[0m
+[0mPUT /interviews/students/edit/6613ac491f7b9575ccf16c2b [32m200[0m 2676.756 ms - 8517[0m
+[0mGET /jobs [36m304[0m 438.117 ms - -[0m
